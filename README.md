@@ -1,6 +1,6 @@
 # CAN Implementation
 
-## YrkesAkademin Group Project
+## YrkesAkademin Group Project - Embedded Programming Course
 
 
 
